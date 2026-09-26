@@ -10,11 +10,11 @@ Open `index.html` in any modern browser — no build step, no dependencies, no s
 
 ## Controls
 
-| Action | Key |
-|---|---|
-| Move left | `←` / `A` |
-| Move right | `→` / `D` |
-| Pause / Resume | `Esc` / `P` |
+| Action          | Key             |
+| --------------- | --------------- |
+| Move left       | `←` / `A`       |
+| Move right      | `→` / `D`       |
+| Pause / Resume  | `Esc` / `P`     |
 | Start / Restart | `Enter` / click |
 
 ## Features
